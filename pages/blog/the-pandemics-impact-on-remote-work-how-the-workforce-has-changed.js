@@ -22,7 +22,7 @@ const PandemicsImpact = () => {
         <link rel="icon" href="/favicon-32x32.png" type="image/png"/>
       </Head> 
       <NextSeo
-        title="The Pandemic's Impact on Remote Work: How the Workforce Has Changed"
+        title="How the Pandemic's Impact on Remote Work: How the Workforce Has Changed"
         description="The COVID-19 pandemic has changed the way we work, with many companies transitioning to remote work to ensure the 
         safety of their employees. However, the pandemic has also accelerated pre-existing trends in remote work, resulting in a 
         significant shift in the workforce. Here are some of the changes that the pandemic has brought about in the realm of remote work"
