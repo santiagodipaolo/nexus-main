@@ -21,7 +21,7 @@ const TermsAndPolicies = () => {
             <Text fontSize={32} color="gray.600" fontWeight="bold">TERMS AND CONDITIONS </Text>
           </Flex>
           
-          <Flex mt={20} flexDir="column">
+          <Flex mt={10} flexDir="column">
             
             <Text>
               <br />

@@ -117,7 +117,7 @@ import 'react-whatsapp-widget/dist/index.css';
                   © 2023 Nexus. All rights reserved
                 </chakra.span>
 
-                <Link href={'#'} color='#e9ecef'>Terms of Service | Privacy Policy</Link>
+                <Link href={'/terms-and-policies'} color='#e9ecef'>Terms of Service | Privacy Policy</Link>
 
               </Stack>
               <Stack direction={'row'} spacing={6}>
